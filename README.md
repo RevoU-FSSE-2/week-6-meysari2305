@@ -41,26 +41,50 @@ membuat folder file sebagai berikut
 
 <h1 text-align="center"><img src="picture/week6 7.jpg" width="500px" height="300px" /> </h1>
 
-## step 4
+## step 6
 
 ### Didalam file package.json tertulis code sebagai berikut
 
 <h1 text-align="center"><img src="picture/week6 8.jpg" width="500px" height="300px" /> </h1>
 
-## step 4
+## step 7
 
 ### Didalam file Server.js tertulis code sebagai berikut
 
 <h1 text-align="center"><img src="picture/week6 9.jpg" width="500px" height="300px" /> </h1>
 
-## step 4
+## step 8
 
 ### lalu membuat perintah kepada docker untuk membuild aplikasi nya seperti berikut ini :
 
 <h1 text-align="center"><img src="picture/week6 10.jpg" width="600px" height="500px" /> </h1>
 
-## step 4
+## step 9
 
 ### setelah terbentuk copy id images pada docker untuk menjalankan aplikasi tersebut :
 
 <h1 text-align="center"><img src="picture/week6 13.jpg" width="600px" height="300px" /> </h1>
+
+## step 10
+
+### berikut adalah perintah untuk menjalankan aplikasi oleh docker
+
+<h1 text-align="center"><img src="picture/week6 11.jpg" width="500px" height="300px" /> </h1>
+
+## step 11
+
+### meskipun telah dijalankan namun masih belum bisa mengakses port 3000 tersebut karena port tersebut port default didalam docker
+
+<h1 text-align="center"><img src="picture/week6 14.jpg" width="500px" height="300px" /> </h1>
+
+## step 12
+
+### kita perlu mensetting port localhost kita untuk bisa membuka port didalam docker seperti berikut ini
+
+<h1 text-align="center"><img src="picture/week6 12.jpg" width="500px" height="300px" /> </h1>
+
+## step 13
+
+### dan Berhasil aplikasi yang kita buat didalm docker dapat berjalan.
+
+<h1 text-align="center"><img src="picture/week6 16.jpg" width="500px" height="300px" /> </h1>
