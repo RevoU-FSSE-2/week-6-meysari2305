@@ -39,4 +39,28 @@ membuat folder file sebagai berikut
 
 ### Didalam Docker File tulis Code sabagai berikut
 
-<h1 text-align="center"><img src="picture/week6 6.jpg" width="800px" height="600px" /> </h1>
+<h1 text-align="center"><img src="picture/week6 7.jpg" width="500px" height="300px" /> </h1>
+
+## step 4
+
+### Didalam file package.json tertulis code sebagai berikut
+
+<h1 text-align="center"><img src="picture/week6 8.jpg" width="500px" height="300px" /> </h1>
+
+## step 4
+
+### Didalam file Server.js tertulis code sebagai berikut
+
+<h1 text-align="center"><img src="picture/week6 9.jpg" width="500px" height="300px" /> </h1>
+
+## step 4
+
+### lalu membuat perintah kepada docker untuk membuild aplikasi nya seperti berikut ini :
+
+<h1 text-align="center"><img src="picture/week6 10.jpg" width="600px" height="500px" /> </h1>
+
+## step 4
+
+### setelah terbentuk copy id images pada docker untuk menjalankan aplikasi tersebut :
+
+<h1 text-align="center"><img src="picture/week6 13.jpg" width="600px" height="300px" /> </h1>
